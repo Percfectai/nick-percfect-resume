@@ -1,8 +1,8 @@
-NICK PERCFECT
+NICK PERCIBALLI
 AI Builder | Founder, Percfect AI LLC
-New York / New Jersey | [phone] | [email] | percfectai.com | perfectdoc.si
+New York / New Jersey | [phone] | nickpelectrical@gmail.com | founder@perfectai.com | percfectai.com | perfectdoc.si
 
-HEADLINE: AI builder seeking applied AI roles — prompt engineering, automation, AI content ops
+34-year-old AI builder and founder transitioning from a long career in electrical contracting. Over the past year I have been developing a broad range of applied AI skills and shipping tools for content creation, document generation, and interactive media. Looking to shift fully into AI roles focused on prompt engineering, product development, and automation.
 
 ═══════════════════════════════════════════════════════════
 
@@ -17,13 +17,23 @@ Full gallery on request · stored in Coursera Accomplishments
 
 PROJECTS
 
-Percfect AI LLC — Founder & Operator (formed Oct 24, 2026)
-AI tools & API marketplace: unified API keys, shared token pools, image/video
-generation, 360° spinner, Three.js 3D interactive boards. Building PercfectShield,
-a 3-agent AI bouncer/anti-bot system for sale.
+Percfect AI LLC — Founder & Operator (Certificate of Formation · Oct 24, 2026)
+AI tools and creative platform company
 
-Perfectdoc.si — Live, in progress
-Encrypted AI document-drafting platform. Functional now: drafts documents.
+percfectai.com — Live
+Production platform for generating hero cards, developing 3D characters, and producing Imogen video content
+
+perfectdoc.si — Live
+Generates state-specific contracts and multi-party legally binding documents with guided drafting workflows
+
+ComicBot.com — Comic Book Maker (In progress)
+Guided page-by-page comic creation tool that maintains character consistency through reference sheets and prebuilt templates
+
+siagentdj.com — Virtual DJ / Live MC (In progress)
+AI-powered virtual MC and playlist host built to control and operate a physical turntable in real time
+
+Circuit 22 — Music (20–30 tracks)
+Original catalog of 20–30 songs spanning multiple genres; select tracks released on iTunes and Spotify
 
 ═══════════════════════════════════════════════════════════
 
@@ -31,7 +41,7 @@ WORK EXPERIENCE
 
 Danick Electrical Contracting Corp. — Staten Island, NY | 20+ yrs (family business)
 Owner/operator. EV/UV chargers, generators, panels, smart home, pool systems,
-full residential/commercial wiring. Licensed & insured. Part-time since Oct 2025.
+full residential/commercial wiring. Licensed & insured.
 
 Tanishin Electric | 2019–2021, returned Oct 2024–Oct 8, 2025
 IBEW Local 363 union shop. Electrical contracting.
